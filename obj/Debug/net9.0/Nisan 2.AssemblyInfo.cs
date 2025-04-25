@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nisan 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5abecbfaa764c55fce4430e5abda3a34f73ea9fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16a0ac5d351f618d5641e6f2117f64725e9f0dac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nisan 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nisan 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

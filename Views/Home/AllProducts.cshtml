@@ -2,8 +2,6 @@
 @{
     ViewData["Title"] = "Home Page";
 }
-<h1>Welcome to the Product List</h1>
-<p>Here are the products available:</p>
 <div class="container mt-4">
     <h1 class="text-center mb-4">Ürünler</h1>
     <div class="row">
@@ -11,7 +9,7 @@
         {
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
-                    <img class="card-img-top" src="image/@product.ImageUrl" alt="@product.Name" style="height: 200px; object-fit: cover;">
+                    <img class="card-img-top" src="C:\Users\furky\Desktop\Nisan 2\Nisan2\wwwroot\image\@product.ImageUrl" alt="@product.Name" style="height: 200px; object-fit: cover;">
                     <div class="card-body">
                         <h5 class="card-title">@product.Name</h5>
                         <p class="card-text">Fiyat: @product.Price.ToString("C")</p>
