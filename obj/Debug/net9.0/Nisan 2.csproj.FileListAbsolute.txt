@@ -95,3 +95,101 @@ C:\Users\furky\Desktop\Nisan 2\obj\Debug\net9.0\refint\Nisan 2.dll
 C:\Users\furky\Desktop\Nisan 2\obj\Debug\net9.0\Nisan 2.pdb
 C:\Users\furky\Desktop\Nisan 2\obj\Debug\net9.0\Nisan 2.genruntimeconfig.cache
 C:\Users\furky\Desktop\Nisan 2\obj\Debug\net9.0\ref\Nisan 2.dll
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\appsettings.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\Nisan 2.staticwebassets.endpoints.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\Nisan 2.staticwebassets.runtime.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\Nisan 2.exe
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\Nisan 2.deps.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\Nisan 2.runtimeconfig.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\Nisan 2.dll
+C:\Users\furky\Desktop\Nisan 2\Nisan2\bin\Debug\net9.0\Nisan 2.pdb
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.AssemblyInfoInputs.cache
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.AssemblyInfo.cs
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.csproj.CoreCompileInputs.cache
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.RazorAssemblyInfo.cache
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.RazorAssemblyInfo.cs
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.sourcelink.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\scopedcss\bundle\Nisan 2.styles.css
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\scopedcss\projectbundle\Nisan 2.bundle.scp.css
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\agz25zheyf-b9sayid5wm.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\jpve7ab8q9-61n19gt1b8.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\osjihzpbnq-xtxxf3hu2r.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\gwm377p6p3-bqjiyaj88i.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\i1ers4a2kr-c2jlpeoesf.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\nfkeywngg8-erw9l3u2r3.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\hcg4khoipl-aexeepp0ev.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\svosrvo0v4-d7shbmvgxk.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\pk64r6f1p5-ausgxo2sd3.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\qm5qzx5339-k8d9w2qqmf.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\g7y7qp3aul-cosvhxvwiu.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\n9k8w7klm7-ub07r2b239.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\2pjhfa8uvq-fvhpjtyr6v.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\w0xzxcctvn-b7pk76d08c.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\sedte8k39j-fsbi9cje9m.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\wd844dkb52-rzd6atqjts.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\x96trd6fqm-ee0r1s7dh0.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\56f5mrt5a9-dxx9fxp4il.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\5q7rjkcfjb-jd9uben2k1.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\k0zkkd8jkz-khv3u5hwcm.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\h98jlwl1aq-r4e9w2rdcm.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\aebip7yt4c-lcd1t2u6c8.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\t5scj7l6qr-c2oey78nd0.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\ao8bzrrabo-tdbxkamptv.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\e8gz53f6f8-j5mq2jizvt.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\g1e8kc17q5-06098lyss8.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\259hr0qtk8-nvvlpmu67g.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\gz61h268bq-s35ty4nyc5.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\l3qaulwy8h-pj5nd1wqec.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\nqsyzqubgy-46ein0sx1k.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\uk197hs14m-v0zj4ognzu.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\vhrz4yka3j-37tfw0ft22.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\aoxg8gkwat-hrwsygsryq.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\ptk9g4yakx-pk9g2wxc8p.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\evko0i6sfe-ft3s53vfgj.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\6jxppvx8vg-6cfz1n2cew.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\1j938iz48o-6pdc2jztkx.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\h3a7suzi99-493y06b0oq.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\2u4jqhsib2-iovd86k7lj.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\8wbpm41h1q-vr1egmr9el.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\xrhm5rhbf8-kbrnm935zg.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\z1uc6hfh1k-jj8uyg4cgr.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\qi54zafojq-y7v9cxd14o.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\2nek1ptoqh-notf2xhcfb.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\f6bi8egbcq-h1s4sie4z3.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\fcm3f19a9n-63fj8s7r0e.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\bn1v0wkk8b-0j3bgjxly4.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\cnlrr24wp0-47otxtyo56.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\j1m06s2aol-4v8eqarkd7.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\v3uxdiwk3e-356vix0kms.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\6vq3aavzzp-83jwlth58m.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\fwtgrygzbb-mrlpezrjn3.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\2edcr5jygt-lzl9nlhx6b.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\jzfhaqqsao-ag7o75518u.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\m2mf4w1n3p-x0q3zqp4vz.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\a27m2xeca9-0i3buxo5is.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\51jm16kpg8-o1o13a6vjx.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\4h89rgxfe6-ttgo8qnofa.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\z0bajqxstj-2z0ns9nrw6.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\3u7ne91hib-muycvpuwrr.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\bbd1xjlzth-87fc7y1x7t.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\dpoxc3p8li-mlv21k5csn.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\9lp3ntf73h-gx1yu3h6pk.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\compressed\sopxh5bgzv-gx1yu3h6pk.gz
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets\msbuild.Nisan 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets\msbuild.Nisan 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets\msbuild.build.Nisan 2.props
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Nisan 2.props
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Nisan 2.props
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.dll
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\refint\Nisan 2.dll
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.pdb
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\Nisan 2.genruntimeconfig.cache
+C:\Users\furky\Desktop\Nisan 2\Nisan2\obj\Debug\net9.0\ref\Nisan 2.dll

@@ -14,10 +14,16 @@ public class HomeController : Controller
     }
 
     public IActionResult Index()
-    {
-        return View();
+    {   
+    var products = Repository.GetProducts.Where(p => p.IsActive && p.Listed);
+    return View(products);
     }
 
+    public IActionResult AllProducts()
+    {
+        var products = Repository.GetProducts.Where(p => p.IsActive);
+        return View(products);
+    }
     public IActionResult Privacy()
     {
         return View();
