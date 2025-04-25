@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nisan 2", "Nisan 2.csproj", "{804474EC-FDA9-335E-1ACE-40A38B14263C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804474EC-FDA9-335E-1ACE-40A38B14263C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804474EC-FDA9-335E-1ACE-40A38B14263C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804474EC-FDA9-335E-1ACE-40A38B14263C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804474EC-FDA9-335E-1ACE-40A38B14263C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFECBA0E-8692-4CFD-A56C-FC1E97B8E2DD}
+	EndGlobalSection
+EndGlobal
